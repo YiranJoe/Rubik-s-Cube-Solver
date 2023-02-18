@@ -19,7 +19,6 @@ Cube scramble(){
 }
 
 int main(){
-    freopen("lookup.txt","r", stdin);
     Side s[6];
     for(int i = 0; i < 6; i++){
         int b[4];
